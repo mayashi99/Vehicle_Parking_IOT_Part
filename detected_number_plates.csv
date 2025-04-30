@@ -1,0 +1,3 @@
+Timestamp,Detected Plate,Matched Plate,Match Score,Booking ID,Gate Action,Image Path
+2025-04-28 10:24:48,== CBG 9528,CBG  9528,100,A013,unlock,detected_plates/plate_20250428_102448.png
+2025-04-28 10:25:28,we CBL 2638,CBL 2638,88,A012,unlock,detected_plates/plate_20250428_102528.png
